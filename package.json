@@ -1,0 +1,15 @@
+{
+  "name": "nameserver-forward",
+  "version": "0.0.1",
+  "description": "Forwarding middleware for node-nameserver",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keijokapp/nameserver-forward"
+  },
+  "dependencies": {
+    "debug": "^2.6.6",
+    "nameserver-packet": "https://github.com/keijokapp/nameserver-packet"
+  },
+  "author": "Keijo Kapp <keijo.kapp@gmail.com>",
+  "license": "MIT"
+}
